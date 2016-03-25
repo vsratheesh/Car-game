@@ -1,0 +1,28 @@
+#playarea {
+    width: 1284px;
+    height: 461px;
+    position: relative;
+    border-color: #03A9F4;
+    border-width: 4px;
+    border-style: solid;
+
+}
+#car {
+    width: 90px;
+    height: 50px;
+    position: absolute;
+    background-image: url(./images/car.png);
+    background-size: cover;
+}
+
+button{
+    height:50%;
+    border-radius: 50%;
+    border:10px solid #cfdcec;
+    overflow:hidden;
+    background: #4679BD;
+
+}
+button:hover {
+    background:#30588e;
+}
